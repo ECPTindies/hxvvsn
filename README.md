@@ -4,6 +4,7 @@
 
 ## Feature
 - [x] SemVer
+- [ ] ZeroVar
 - [ ] TrunkVar
 - [ ] Explicit
 
