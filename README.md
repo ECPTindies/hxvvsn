@@ -1,4 +1,4 @@
-# thx.semver
+# varver - Various versioning system notation for Haxe
 
 [![Build Status](https://travis-ci.org/fponticelli/thx.semver.svg)](https://travis-ci.org/fponticelli/thx.semver)
 
