@@ -1,0 +1,6 @@
+package expver;
+
+abstract ExplicitVer
+{
+    
+}
